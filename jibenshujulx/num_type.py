@@ -96,7 +96,8 @@ if __name__ == "__main__":
     rw = reverseWords(input)
     print(rw)
 """
-
+"""
 letters = ['c', 'h', 'e', 'c', 'k', 'i', 'o']
 print(letters[1:4:2])
+"""
 

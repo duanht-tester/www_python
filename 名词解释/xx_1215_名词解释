@@ -1,0 +1,35 @@
+required    必须的
+positional    位置参数
+argument      论点
+required positional argument
+译文：所需的位置参数
+Traceback    回溯 追踪 追溯
+most recent call last
+译文：最近一次呼叫
+takes     取走
+given     送给 给出 发给
+TypeError: f() takes 2 positional arguments but 3 were given
+译文：TypeError: f()接受2个位置参数，但给出3个
+stdin       标准输入（standard input）
+lambda     匿名函数
+SyntaxError      语法错误
+invalid syntax    无效的句法 无效的语法 语法问题
+SyntaxError:  语法错误
+non-default argument follows default argument
+非默认实参紧跟着默认实参
+UnboundLocalError: local variable 'a' referenced before assignment
+译文：Error:局部变量“a”在赋值之前被引用
+Unbound:  未绑定的
+Local：  局部的
+global   全球的；总体的；球形的
+nonlocal
+非局部的
+网络释义     异地客户合作 异地客户配合 外地合作无忧
+SyntaxError: no binding for nonlocal 'x' found
+没有找到非局部'x'的绑定
+RecursionError: maximum recursion depth exceeded
+译文：递归错误:超过最大递归深度
+TypeError: 'NoneType' object is not callable
+译文：TypeError: 'None Type'对象不可调用
+Traceback (most recent call last)
+译文：回溯(最后一次调用的最近一次调用)

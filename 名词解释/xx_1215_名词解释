@@ -33,3 +33,5 @@ TypeError: 'NoneType' object is not callable
 译文：TypeError: 'None Type'对象不可调用
 Traceback (most recent call last)
 译文：回溯(最后一次调用的最近一次调用)
+iterable
+可迭代对象 可迭代的
